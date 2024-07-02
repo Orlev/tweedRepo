@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b31eafc8-cc19-43ea-9387-4eac1dcc4c42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/src/users/user.model.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/users/users.resolver.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/App.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b31eafc8-cc19-43ea-9387-4eac1dcc4c42" name="Changes" comment="Pushing changes to git">
+      <change afterPath="$PROJECT_DIR$/backend" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +59,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719811523375</updated>
-      <workItem from="1719811524444" duration="8332000" />
+      <workItem from="1719811524444" duration="9291000" />
     </task>
+    <task id="LOCAL-00001" summary="Pushing changes to git">
+      <option name="closed" value="true" />
+      <created>1719898799788</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719898799788</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ROOT_NAMES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pushing changes to git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pushing changes to git" />
   </component>
 </project>
